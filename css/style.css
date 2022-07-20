@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap");
+
+* {
+  font-family: Ubuntu, sans-serif;
+  
+}
+
+body {
+  background-image: url(../css/img/ki4.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+h1,h2,h3{
+	color: #515a56;
+
+}
+
+p{
+	color: #939292;
+	font-size: 1.2rem;
+	line-height: 1.5rem;
+}
+
+.tituloH2{
+	margin-top: 30px;
+}
+
+.tituloH1{
+	margin-bottom: 30px;
+}
+
+.divCenter{
+	text-align: center;
+}
+
+.bg-colorG{
+	background-color: #c0d3cb;
+}
+
+.imgLogo{
+	width: 180px;
+}
+
+.btn-g{
+	background-color: #c0d3cb;
+}
+
+/*footer*/
+.pie {
+  background: #c0d3cb;
+ }
+
+.pie__titulo--md {
+  font-size: 1.5rem;
+}
+
+.pie__icon--sm {
+  width: 40px;
+}
+/*fin footer*/
+
+.encabezado__img--fluid {
+  width: 70%;
+  display: block;
+  margin: auto;
+  margin-bottom: 40px;
+  padding: 10px;
+}
+
+.imgMain{
+	width: 10%;
+  display: flex;
+ 
+}
+
+
+
+
